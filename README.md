@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-Download and read [Fassina (signed).pdf](Fassina (signed).pdf) (digitally signed file).
+Download and read [Fassina (signed).pdf](Fassina%20(signed).pdf) (digitally signed file).
 Download and run [zeta.m](zeta.m) (with MATLAB R2022b at least): input RE, MI, and t=1.
 There is a bonus from line 439.
 
